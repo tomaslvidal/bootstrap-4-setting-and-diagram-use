@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T21:23:16.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="mFMm0aRB1eap4Vt_69Aa" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T23:25:50.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="En44EPPMxavo-YU8Fg4M" version="13.1.2" type="github">
   <diagram id="xHOJisQdkb2OtT_eh4bX" name="Page-1">
-    <mxGraphModel dx="1592" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XplwRi0R-BkFfsx55WH8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XplwRi0R-BkFfsx55WH8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.431;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-1" target="XplwRi0R-BkFfsx55WH8-8">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.431;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XplwRi0R-BkFfsx55WH8-1" target="XplwRi0R-BkFfsx55WH8-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="155" y="162" />
@@ -20,61 +20,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;SI ACCOUNT CODE&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;SI ACCOUNT CODE&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="90" y="64" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-8" target="XplwRi0R-BkFfsx55WH8-10">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XplwRi0R-BkFfsx55WH8-8" target="XplwRi0R-BkFfsx55WH8-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Si fri_corporateid == &#39;&#39;&lt;br&gt;(viene del xml)&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Si fri_corporateid == &#39;&#39;&lt;br&gt;(viene del xml)&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-90" y="290" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-10" target="XplwRi0R-BkFfsx55WH8-21">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XplwRi0R-BkFfsx55WH8-10" target="XplwRi0R-BkFfsx55WH8-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-10" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La regla &quot;.$idr.&quot; no se aplico &lt;br&gt;porque era para account codes&lt;br&gt;o se devolvio un account &lt;br&gt;code y el mismo no aplico&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-10" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La regla &quot;.$idr.&quot; no se aplico &lt;br&gt;porque era para account codes&lt;br&gt;o se devolvio un account &lt;br&gt;code y el mismo no aplico&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-115" y="350" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;$aplica = &quot;no&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;$aplica = &quot;no&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-70" y="450" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-2" target="XplwRi0R-BkFfsx55WH8-18">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XplwRi0R-BkFfsx55WH8-2" target="XplwRi0R-BkFfsx55WH8-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;NO ACCOUNT CODE&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;NO ACCOUNT CODE&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="250" y="64" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-18" target="XplwRi0R-BkFfsx55WH8-23">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XplwRi0R-BkFfsx55WH8-18" target="XplwRi0R-BkFfsx55WH8-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-18" target="XplwRi0R-BkFfsx55WH8-28">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XplwRi0R-BkFfsx55WH8-18" target="XplwRi0R-BkFfsx55WH8-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-18" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;if (($ttar&amp;lt;&amp;gt;&quot;NEG&quot;) &lt;br&gt;and ($tiporeg==&quot;1&quot;)){&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-18" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;if (($ttar&amp;lt;&amp;gt;&quot;NEG&quot;) &lt;br&gt;and ($tiporeg==&quot;1&quot;)){&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="320" y="115" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-23" target="XplwRi0R-BkFfsx55WH8-25">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XplwRi0R-BkFfsx55WH8-23" target="XplwRi0R-BkFfsx55WH8-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-23" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La regla &quot;.$idr.&quot; no se aplico porque &lt;br&gt;era sólo para tarifas negociadas &lt;br&gt;y el itinerario no tenía tarifas negociadas&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;direction=west;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-23" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La regla &quot;.$idr.&quot; no se aplico porque &lt;br&gt;era sólo para tarifas negociadas &lt;br&gt;y el itinerario no tenía tarifas negociadas&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;direction=west;" parent="1" vertex="1">
           <mxGeometry x="265" y="170" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-25" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;$aplica = &quot;no&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;direction=west;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-25" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;$aplica = &quot;no&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;direction=west;" parent="1" vertex="1">
           <mxGeometry x="340" y="250" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-7" value="Llenar el&amp;nbsp;$accountco&lt;br&gt;desmartin&lt;br&gt;, en un array" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-7" value="Llenar el&amp;nbsp;$accountco&lt;br&gt;desmartin&lt;br&gt;, en un array" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry y="170" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-12" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="230" as="sourcePoint" />
             <mxPoint x="150" y="280" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-14">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XplwRi0R-BkFfsx55WH8-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="330" as="targetPoint" />
             <Array as="points">
@@ -82,17 +82,74 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-14" value="if ($_SESSION[&quot;regla_de_&lt;br&gt;account_code&quot;]==$row3[&quot;eidregla&quot;])" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-14" value="if ($_SESSION[&quot;regla_de_&lt;br&gt;account_code&quot;]==$row3[&quot;eidregla&quot;])" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="65" y="270" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-17" value="La regla &quot;.$idr.&quot; puede ser &lt;br&gt;aplicada pues es para &lt;br&gt;account codes y se &lt;br&gt;devolvio que puede ser usada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-17" value="La regla &quot;.$idr.&quot; puede ser &lt;br&gt;aplicada pues es para &lt;br&gt;account codes y se &lt;br&gt;devolvio que puede ser usada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-20" value="&lt;div&gt;$ttar=$x //ADT, NEG?&lt;/div&gt;&lt;div&gt;$tiporegla=$row3[&quot;tipo_cargo&quot;]; // &#39;MARK UP&#39;, &#39;DESCUENTO&#39;, &#39;SERVICE FEE&#39;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="XplwRi0R-BkFfsx55WH8-20" value="&lt;div&gt;$ttar=$x //ADT, NEG?&lt;/div&gt;&lt;div&gt;$tiporegla=$row3[&quot;tipo_cargo&quot;]; // &#39;MARK UP&#39;, &#39;DESCUENTO&#39;, &#39;SERVICE FEE&#39;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="540" y="34" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XplwRi0R-BkFfsx55WH8-28" value="if ((($ttar==&quot;NEG&quot;) &lt;br&gt;or ($espriv==&quot;true&quot;)) &lt;br&gt;and ($tiporeg==&quot;0&quot;)){" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="563" y="171" width="130" height="50" as="geometry" />
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-28" target="S2YXEUQFtzJFT1U0F4bR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-28" target="S2YXEUQFtzJFT1U0F4bR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XplwRi0R-BkFfsx55WH8-28" value="if ((($ttar==&quot;NEG&quot;) &lt;br&gt;or ($espriv==&quot;true&quot;)) &lt;br&gt;and ($tiporeg==&quot;0&quot;)){" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="563" y="105" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-5" target="S2YXEUQFtzJFT1U0F4bR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-5" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;if (($ espriv &amp;lt;&amp;gt; &quot;true&quot;) &lt;br&gt;y ($ tiporeg == &quot;3&quot;)) {&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="115" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-7" target="S2YXEUQFtzJFT1U0F4bR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La regla &quot;. $ Idr&quot;. &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;no se aplico porque era &lt;br&gt;solo para tarifas privadas y el itinerario no devolvió &lt;br&gt;tarifas privadas&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="790" y="170" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-9" value="$aplica = &quot;no&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="885" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-1" target="S2YXEUQFtzJFT1U0F4bR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La regla &quot;. $ Idr&quot;. &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;no se aplico porque&lt;br&gt;era solo para tarifas normales y el itinerario&lt;br&gt;devolvió tarifas negociadas o privadas &quot;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;$aplica = &quot;no&quot;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-12" target="S2YXEUQFtzJFT1U0F4bR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-12" target="S2YXEUQFtzJFT1U0F4bR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-12" value="if (in_array($aero, &lt;br&gt;$vec_companias)==false) {" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-15" value="$razon = &quot;La compañia &lt;br&gt;no estaba en &lt;br&gt;el vector de compañias&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-13" value="$aplica = &quot;np&quot;;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-17" value="La regla &quot;.$idr.&quot; no se aplico porque la compania &quot;.$aero.&quot; &lt;br&gt;del itinerario no estaba en el vector de &lt;br&gt;companias, que tenia las siguientes companias: &quot;.$com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-18" value="" style="endArrow=none;html=1;entryX=0.123;entryY=1.217;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=-0.078;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-12" target="XplwRi0R-BkFfsx55WH8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="300" as="sourcePoint" />
+            <mxPoint x="500" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
