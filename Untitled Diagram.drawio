@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T21:04:23.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="MXZfJU3fTL8ULnqSyQgN" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T21:07:14.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="1bqSdj51PbzjAIsS7nDD" version="13.1.2" type="github">
   <diagram id="xHOJisQdkb2OtT_eh4bX" name="Page-1">
     <mxGraphModel dx="1592" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,8 +50,14 @@
         <mxCell id="XplwRi0R-BkFfsx55WH8-18" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;if (($ttar&amp;lt;&amp;gt;&quot;NEG&quot;) &lt;br&gt;and ($tiporeg==&quot;1&quot;)){&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="320" y="115" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XplwRi0R-BkFfsx55WH8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XplwRi0R-BkFfsx55WH8-23" target="XplwRi0R-BkFfsx55WH8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XplwRi0R-BkFfsx55WH8-23" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La regla &quot;.$idr.&quot; no se aplico porque &lt;br&gt;era sólo para tarifas negociadas &lt;br&gt;y el itinerario no tenía tarifas negociadas&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;direction=west;" vertex="1" parent="1">
           <mxGeometry x="265" y="170" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XplwRi0R-BkFfsx55WH8-25" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;$aplica = &quot;no&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XplwRi0R-BkFfsx55WH8-7" value="Llenar el&amp;nbsp;$accountco&lt;br&gt;desmartin&lt;br&gt;, en un array" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="170" width="130" height="50" as="geometry" />
