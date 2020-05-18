@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T23:25:50.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="En44EPPMxavo-YU8Fg4M" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T23:40:31.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="6TQBGBebqqbXgDOq6Cxu" version="13.1.2" type="github">
   <diagram id="xHOJisQdkb2OtT_eh4bX" name="Page-1">
-    <mxGraphModel dx="1606" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,8 +130,8 @@
         <mxCell id="S2YXEUQFtzJFT1U0F4bR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-12" target="S2YXEUQFtzJFT1U0F4bR-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S2YXEUQFtzJFT1U0F4bR-12" value="if (in_array($aero, &lt;br&gt;$vec_companias)==false) {" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="160" height="30" as="geometry" />
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-12" value="IF sizeof vec_companias&amp;nbsp;&lt;span&gt;&amp;amp;&amp;amp; if (in_array($aero,&amp;nbsp;&lt;/span&gt;&lt;br&gt;$vec_companias)==false) {" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="295" y="320" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2YXEUQFtzJFT1U0F4bR-15" value="$razon = &quot;La compañia &lt;br&gt;no estaba en &lt;br&gt;el vector de compañias&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="140" height="50" as="geometry" />
@@ -142,13 +142,42 @@
         <mxCell id="S2YXEUQFtzJFT1U0F4bR-17" value="La regla &quot;.$idr.&quot; no se aplico porque la compania &quot;.$aero.&quot; &lt;br&gt;del itinerario no estaba en el vector de &lt;br&gt;companias, que tenia las siguientes companias: &quot;.$com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="290" y="370" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S2YXEUQFtzJFT1U0F4bR-18" value="" style="endArrow=none;html=1;entryX=0.123;entryY=1.217;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=-0.078;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-12" target="XplwRi0R-BkFfsx55WH8-2">
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-18" value="" style="endArrow=none;html=1;entryX=0.123;entryY=1.217;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.317;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-12" target="XplwRi0R-BkFfsx55WH8-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="300" as="sourcePoint" />
             <mxPoint x="500" y="250" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="340" y="290" />
               <mxPoint x="230" y="230" />
+              <mxPoint x="250" y="220" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-19" value="IF size vec_destinos &amp;amp;&amp;amp;&lt;br&gt;if (in_array($_SESSION[&quot;allegada&quot;],&lt;br&gt;$vec_destinos)==false)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="675" y="320" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-21" target="S2YXEUQFtzJFT1U0F4bR-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-21" value="La regla &quot;.$idr.&quot; no se aplico porque el destino &lt;br&gt;&quot;.$_SESSION[&quot;allegada&quot;].&quot; del&lt;br&gt;&amp;nbsp;itinerario&amp;nbsp; no estaba en el vector de destinos, &lt;br&gt;que tenia los siguientes destinos: &quot;.$des;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-23" value="$aplica = &quot;no&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="650" y="520" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-22" value="" style="endArrow=none;html=1;exitX=0.503;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.426;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-19" target="S2YXEUQFtzJFT1U0F4bR-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="290" as="sourcePoint" />
+            <mxPoint x="850" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-25" value="$razon = &quot;El destino &lt;br&gt;no estaba en el vector de destinos&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S2YXEUQFtzJFT1U0F4bR-27" value="" style="endArrow=classic;html=1;exitX=0.764;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.523;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S2YXEUQFtzJFT1U0F4bR-21" target="S2YXEUQFtzJFT1U0F4bR-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="290" as="sourcePoint" />
+            <mxPoint x="820" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
