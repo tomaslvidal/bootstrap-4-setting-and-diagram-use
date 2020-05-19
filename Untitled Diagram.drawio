@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T18:24:26.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.1.2" etag="4GJVsWByYa3atDXC8FTu" type="github"><diagram id="sCNQfAvjFDcfT_C7OlGz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-19T19:19:01.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="0ksu7xIbU4DnKtkzJFxz" version="13.1.2" type="github">
+  <diagram id="sCNQfAvjFDcfT_C7OlGz" name="Page-1">
+    <mxGraphModel dx="643" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i8g4CFV1DMbXo4orfTD8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i8g4CFV1DMbXo4orfTD8-1" target="i8g4CFV1DMbXo4orfTD8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i8g4CFV1DMbXo4orfTD8-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;IF $aplica == &quot;si&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i8g4CFV1DMbXo4orfTD8-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La regla &quot;. $ Idr.&quot; &lt;/font&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;es una de las &lt;br&gt;posibles para ser aplicada a este itinerario.&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="240" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
