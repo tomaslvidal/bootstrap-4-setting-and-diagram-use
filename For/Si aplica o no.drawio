@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T13:04:26.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="Xj_Npd9_FJ6tjmXuM2im" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-27T13:17:21.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="oMQ_ZGuVxrfxCCS81ltA" version="13.1.3" type="github">
   <diagram id="sCNQfAvjFDcfT_C7OlGz" name="Page-1">
     <mxGraphModel dx="779" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,26 @@
         <mxCell id="RwOiJO54GyctnMx1H0Py-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RwOiJO54GyctnMx1H0Py-2" target="RwOiJO54GyctnMx1H0Py-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RwOiJO54GyctnMx1H0Py-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RwOiJO54GyctnMx1H0Py-2" target="RwOiJO54GyctnMx1H0Py-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RwOiJO54GyctnMx1H0Py-2" value="Cuando termina el FOR&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="96" y="518" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RwOiJO54GyctnMx1H0Py-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RwOiJO54GyctnMx1H0Py-18" target="RwOiJO54GyctnMx1H0Py-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwOiJO54GyctnMx1H0Py-18" value="IF sizeof($aplicar){" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="390" y="565" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RwOiJO54GyctnMx1H0Py-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RwOiJO54GyctnMx1H0Py-20" target="RwOiJO54GyctnMx1H0Py-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwOiJO54GyctnMx1H0Py-20" value="db_query WHERE IN de $aplicar y elegir el menor orden" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="618" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RwOiJO54GyctnMx1H0Py-22" value="De las reglas que habian, se eligio la de mas importancia, &lt;br&gt;aplicandose la regla &quot;.$miregla.&quot; al itinerario &quot;.$ki.&quot; y la regla es de tipo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="295" y="670" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RwOiJO54GyctnMx1H0Py-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RwOiJO54GyctnMx1H0Py-3" target="RwOiJO54GyctnMx1H0Py-9">
           <mxGeometry relative="1" as="geometry" />
