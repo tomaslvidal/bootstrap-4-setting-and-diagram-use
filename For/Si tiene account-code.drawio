@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-21T18:36:04.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="rHf8TPOp_Ge47bRDeR2N" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-27T21:33:02.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="RbYM9xMRt8Z1KKxLXmxS" version="13.1.3" type="github">
   <diagram id="xHOJisQdkb2OtT_eh4bX" name="Page-1">
-    <mxGraphModel dx="1528" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,7 +222,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JvkbyAiaQJexJbuG7dHj-13" value="SI LA FECHA DE SALIDA Y LA FECHA DE LLEGADA&lt;br&gt;&amp;nbsp;ESTAN DENTRO DEL RANGO DE LA REGLA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="530" width="300" height="30" as="geometry" />
+          <mxGeometry x="-430" y="530" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JvkbyAiaQJexJbuG7dHj-14" value="$razon = &quot;No esta dentro del rango de fecha&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-294" y="417" width="260" height="20" as="geometry" />
@@ -249,7 +249,7 @@
         <mxCell id="je8Y1S24qYHG2khaOnxY-4" value="PREGUNTAR SI PARA APLICAR ESTO, TODOS LOS VUELOS DEL &lt;br&gt;ITINERARIO TIENEN QUE SER DE LA MISMA AEROLINEA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-440" y="661" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KW22E9luIcc3XNNiZIY2-1" value="&lt;div&gt;$ttar=$x //ADT, NEG?&lt;/div&gt;&lt;div&gt;$tiporegla=$row3[&quot;tipo_cargo&quot;]; // &#39;MARK UP 0&#39;, &#39;DESCUENTO 1&#39;, &#39;SERVICE FEE 2&lt;span&gt;&#39;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="KW22E9luIcc3XNNiZIY2-1" value="&lt;div&gt;$ttar=$x //ADT, NEG?&lt;/div&gt;&lt;div&gt;$tiporegla=$row3[&quot;tipo_cargo&quot;]; // &#39;MARK UP 0&#39;, &#39;DESCUENTO 1&#39;, &#39;SERVICE FEE 2&lt;span&gt;&#39;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="466" y="580" width="460" height="30" as="geometry" />
         </mxCell>
       </root>
