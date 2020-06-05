@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T22:09:31.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="83k4LgWZE5APz9ItqbKd" version="13.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-05T18:20:24.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="ZRYSO0Au_ISgRkpKr4Wq" version="13.1.14" type="github">
   <diagram id="xHOJisQdkb2OtT_eh4bX" name="Page-1">
-    <mxGraphModel dx="2385" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2889" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,37 +214,6 @@
         </mxCell>
         <mxCell id="JvkbyAiaQJexJbuG7dHj-11" value="La regla &quot;.$idr.&quot; no se aplico porque la clase &lt;br&gt;&quot;.$_SESSION[&quot;miclase&quot;].&quot; del itinerario &lt;br&gt;no estaba en el vector de clases, que tenia los siguientes &lt;br&gt;clases: &quot;.$cla;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="110" y="411" width="320" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JvkbyAiaQJexJbuG7dHj-12" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=0.328;exitY=-0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.464;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XplwRi0R-BkFfsx55WH8-1" target="JvkbyAiaQJexJbuG7dHj-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="690" as="sourcePoint" />
-            <mxPoint x="460" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JvkbyAiaQJexJbuG7dHj-13" value="SI LA FECHA DE SALIDA Y LA FECHA DE LLEGADA&lt;br&gt;&amp;nbsp;ESTAN DENTRO DEL RANGO DE LA REGLA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-430" y="530" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JvkbyAiaQJexJbuG7dHj-14" value="$razon = &quot;No esta dentro del rango de fecha&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-294" y="417" width="260" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JvkbyAiaQJexJbuG7dHj-15" value="$aplica = &quot;no&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="417" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JvkbyAiaQJexJbuG7dHj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-375" y="530" as="sourcePoint" />
-            <mxPoint x="-375" y="440.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-375" y="502" />
-              <mxPoint x="-375" y="502" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JvkbyAiaQJexJbuG7dHj-17" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=0.638;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.374;entryY=1.144;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JvkbyAiaQJexJbuG7dHj-13" target="JvkbyAiaQJexJbuG7dHj-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="290" as="sourcePoint" />
-            <mxPoint x="640" y="240" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="je8Y1S24qYHG2khaOnxY-4" value="PREGUNTAR SI PARA APLICAR ESTO, TODOS LOS VUELOS DEL &lt;br&gt;ITINERARIO TIENEN QUE SER DE LA MISMA AEROLINEA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-440" y="661" width="380" height="30" as="geometry" />
