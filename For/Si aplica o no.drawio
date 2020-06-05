@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T22:09:27.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="lgV1_xP3b7u-5PDQ4kOC" version="13.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-05T21:01:41.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="I_ROsaF_46Hasz-_JoeJ" version="13.1.14" type="github">
   <diagram id="sCNQfAvjFDcfT_C7OlGz" name="Page-1">
-    <mxGraphModel dx="779" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,28 @@
         </mxCell>
         <mxCell id="RwOiJO54GyctnMx1H0Py-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=30;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="190" y="140" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="p1D4ydGL_4mKjMcam4Rm-6" value="$aplica = &quot;no&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="860" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p1D4ydGL_4mKjMcam4Rm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.303;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p1D4ydGL_4mKjMcam4Rm-17" target="p1D4ydGL_4mKjMcam4Rm-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975" y="377.25" as="sourcePoint" />
+            <mxPoint x="870" y="262.75" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p1D4ydGL_4mKjMcam4Rm-15" value="$razon = &quot;No esta dentro del rango de fecha&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="981" y="300" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p1D4ydGL_4mKjMcam4Rm-16" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=0.638;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="p1D4ydGL_4mKjMcam4Rm-15" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1051.4" y="407.99" as="sourcePoint" />
+            <mxPoint x="1083.2399999999998" y="291.8800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p1D4ydGL_4mKjMcam4Rm-17" value="SI LA FECHA DE SALIDA Y LA FECHA DE LLEGADA&lt;br&gt;&amp;nbsp;ESTAN DENTRO DEL RANGO DE LA REGLA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="860" y="407" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
